@@ -4,7 +4,7 @@ import Imaging
 
 
 #TODO
-# Implement remote running of application via IP address.... but how????
+# Implement remote running of application via IP address
 
 
 
